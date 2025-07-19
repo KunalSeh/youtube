@@ -26,11 +26,6 @@ The "Simple YouTube Clone" project presents a simplified emulation of the widely
 2. Right-click on the file and select "Open with Live Preview."
 3. This will launch a live preview of the website in your default web browser.
 
-### Explore and Enjoy
-
-Open your web browser and visit [http://localhost:3000](http://localhost:3000) to experience the "YouTube Home Page UI".
-
----
 
 Explore the "YouTube Home Page UI" and appreciate the artistry of its design, envisioning the possibilities of a fully interactive online grocery shopping experience.
 
