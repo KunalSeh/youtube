@@ -19,25 +19,6 @@ The "Simple YouTube Clone" project presents a simplified emulation of the widely
 
 - **Frontend**: The project is exclusively constructed using HTML and CSS, effectively demonstrating the diverse capabilities of these technologies in crafting visually appealing user interfaces.
 
-## Getting Started
-
-To view the "YouTube Home Page UI" on your local machine, follow these steps:
-
-### Clone the Repository
-
-Clone the repository to your local machine using the following command:
-
-```
-git clone https://github.com/codewithmawais/youtube-clone-html-css.git
-```
-
-### Navigate and Install Dependencies
-
-Navigate to the project directory:
-
-```
-cd youtube-clone-html-css
-```
 
 ### Start the Application
 
